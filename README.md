@@ -1,6 +1,6 @@
 # About
 An Advanced Telegram Id Chatbot Open Source Code.
-
+"logo": "https://te.legra.ph/file/1fe7ba504e18d33aeb761.png",
 ## How To Host
 The easiest way to deploy this Bot
 • Enter your ```MONGO_URL```,```API_ID```,  ```API_HASH``` And ```SESSION```.
